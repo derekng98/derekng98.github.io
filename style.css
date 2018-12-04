@@ -23,10 +23,6 @@ h1 {
 	color: green;
 }
 
-#slogan {
-	max-width: 460px;
-}
-
 #author {
 	max-width: 400px;
 }
@@ -82,6 +78,8 @@ h1 {
 	margin: 0;
 	max-width: 900px;
 	width: 100%;
+	display: flex;
+	justify-content: center;
 }
 
 .body-paragraphs {
@@ -115,11 +113,6 @@ a:visited {
 	position: static;
 }*/
 /*
-#header {
-	display: flex;
-	justify-content: center;
-	flex-direction: column;
-}*/
 
 /*a {
 	background-color: #00000000;
